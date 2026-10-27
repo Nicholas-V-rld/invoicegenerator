@@ -1,5 +1,7 @@
 # InvoiceFlow - Professional Invoicing Solution
 
+> Built by Daniel Oyinloluwa and Nicholas V. as a team.
+
 A full-stack invoicing application built with React, Express.js, PostgreSQL, and Stripe payments.
 
 ## Features
